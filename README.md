@@ -1,5 +1,7 @@
 # 深鲸画布 · DSH 插件
 
+[![Listed on dsh-plugin.org](https://dsh-plugin.org/badges/listed.svg)](https://dsh-plugin.org/plugins/feely0208/dsh-shell-canvas)
+
 把一段文字，变成能发的视频。
 
 贴一段稿子、选几张素材，点一下出横竖双版成片。
